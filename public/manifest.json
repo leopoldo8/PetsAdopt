@@ -1,6 +1,6 @@
 {
-  "name": "dogadopt",
-  "short_name": "dogadopt",
+  "name": "Pets Adopt",
+  "short_name": "Pets Adopt",
   "icons": [
     {
       "src": "./img/icons/android-chrome-192x192.png",

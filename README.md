@@ -1,7 +1,7 @@
 # Pets Adopt
 
-A Progressive Web Application based on the idea of helping pets to get a new home and a good companion.
-This project is just for training for now, a good idea that I would like to make real.
+A Progressive Web Application based on the idea of helping pets to get a new home and a good companion.  
+This project is just for training for now, a good idea that I would like to make real.  
 I hope you like it.
 
 ## Project setup
